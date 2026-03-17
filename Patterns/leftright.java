@@ -1,4 +1,13 @@
+/*
+displaying the left half right angled triangle
+if n=5
+        *
+      * *
+    * * *
+  * * * *
+* * * * *
 
+*/
 import java.util.*;
 class leftright{
     public static void printleftright_triangle(int n){
