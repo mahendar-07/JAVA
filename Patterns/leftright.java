@@ -1,4 +1,4 @@
-/*
+/*;
 displaying the left half right angled triangle
 if n=5
         *
@@ -29,5 +29,3 @@ class leftright{
         printleftright_triangle(n);
     }
 }
-
-
