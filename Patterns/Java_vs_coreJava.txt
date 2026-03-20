@@ -1,0 +1,128 @@
+         ┌───────────────────┐
+         │     Core Java      │
+         │───────────────────│
+         │ - Java Basics      │
+         │ - OOP Concepts     │
+         │ - Exception Handling│
+         │ - Collections      │
+         │ - File I/O, Threads│
+         └─────────┬─────────┘
+                   │ Builds foundation
+                   ▼
+         ┌───────────────────┐
+         │     Java DSA       │
+         │───────────────────│
+         │ - Arrays, Linked Lists│
+         │ - Stacks, Queues       │
+         │ - Trees, Graphs        │
+         │ - Sorting & Searching  │
+         │ - Recursion, DP        │
+         │ - Time/Space Complexity│
+         └─────────┬─────────┘
+                   │ Solves problems efficiently
+                   ▼
+         ┌───────────────────┐
+         │   Applications     │
+         │───────────────────│
+         │ - Coding Interviews │
+         │ - Competitive Coding│
+         │ - Backend Development│
+         │ - Optimized Software │
+         └───────────────────┘
+
+
+
+Perfect! Here’s a **6-month day-wise roadmap** for a 2025 pass-out with **6.39 CGPA** to land a Java DSA-focused job. This plan assumes **5–6 hours/day of dedicated work**.
+
+---
+
+## **Months 1–6: Intensive Java + DSA Plan**
+
+### **Month 1: Core Java Foundations**
+
+**Goal:** Master Core Java concepts for OOP and basics.
+
+| Week   | Focus                         | Daily Tasks                                                                                             |
+| ------ | ----------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Week 1 | Java Basics                   | Variables, Data types, Operators, Conditionals, Loops. Solve 5–10 simple problems/day on HackerRank.    |
+| Week 2 | OOP Concepts                  | Class, Object, Inheritance, Polymorphism, Encapsulation. Write mini-project: Student Management System. |
+| Week 3 | Collections Framework         | ArrayList, LinkedList, HashMap, HashSet. Solve 5–10 problems/day.                                       |
+| Week 4 | Exception Handling + File I/O | Implement file reading/writing, custom exceptions. Start simple Java projects.                          |
+
+✅ **Output:** Small projects on GitHub + 20–30 Java problems solved.
+
+---
+
+### **Month 2–3: DSA Basics**
+
+**Goal:** Learn essential data structures and basic algorithms.
+
+| Week       | Focus               | Daily Tasks                                                                                        |
+| ---------- | ------------------- | -------------------------------------------------------------------------------------------------- |
+| Week 5–6   | Arrays & Strings    | Solve 10 problems/day (Easy to Medium). Topics: Reverse, Rotate, Search, Subarray sums.            |
+| Week 7     | Linked List         | Singly/ Doubly Linked List operations. Solve 5–7 problems/day.                                     |
+| Week 8     | Stack & Queue       | Implement using arrays and linked lists. Solve 5–7 problems/day.                                   |
+| Week 9     | HashMap & HashSet   | Frequency count, duplicate detection, basic hashing problems. Solve 5–7/day.                       |
+| Week 10–12 | Recursion & Sorting | Recursion basics + Bubble, Selection, Insertion, Merge, Quick sort. Solve 5–7 medium problems/day. |
+
+✅ **Output:** Implemented all basic DSA structures and 80–100 problems solved.
+
+---
+
+### **Month 4: Advanced DSA**
+
+**Goal:** Solve medium to hard problems using trees, graphs, and DP.
+
+| Week    | Focus               | Daily Tasks                                                                       |
+| ------- | ------------------- | --------------------------------------------------------------------------------- |
+| Week 13 | Trees               | Binary Tree, BST, basic operations. Solve 5–7 problems/day.                       |
+| Week 14 | Graphs              | DFS, BFS, basic shortest path problems. Solve 5–7 problems/day.                   |
+| Week 15 | Dynamic Programming | Fibonacci, Knapsack, Longest Subsequence. Solve 3–5 problems/day.                 |
+| Week 16 | Misc Algorithms     | Greedy algorithms, two-pointer technique, sliding window. Solve 5–7 problems/day. |
+
+✅ **Output:** 50–70 medium-hard problems solved + understanding of time/space complexity.
+
+---
+
+### **Month 5: Projects & Interview Prep**
+
+**Goal:** Build strong projects and start coding interviews.
+
+| Week       | Focus           | Daily Tasks                                                                                                       |
+| ---------- | --------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Week 17–18 | Project 1       | Build backend project: Online Shopping / Inventory Management System (sorting/searching features, HashMap usage). |
+| Week 19    | Project 2       | Graph/Tree-based project: Social Network Friend Suggestion / Recommendation System.                               |
+| Week 20    | Mock Interviews | Practice problems on LeetCode Medium + Mock interviews 2–3 times/week. Revise Core Java + DSA.                    |
+
+✅ **Output:** 2 strong projects + interview-ready problem-solving skills.
+
+---
+
+### **Month 6: Final Prep & Job Applications**
+
+**Goal:** Crack coding interviews and apply for jobs.
+
+| Week    | Focus                 | Daily Tasks                                                    |
+| ------- | --------------------- | -------------------------------------------------------------- |
+| Week 21 | Revision              | Revise Core Java + DSA concepts. Solve 5 problems/day.         |
+| Week 22 | Mock Interviews       | Solve LeetCode Medium/Hard problems. 2–3 mock interviews/week. |
+| Week 23 | Resume & Applications | Prepare GitHub portfolio, apply to startups & MNCs.            |
+| Week 24 | Placement Drive       | Focus on timed coding tests, HR prep, system design basics.    |
+
+✅ **Output:** Ready for placement drives and interviews.
+
+---
+
+### **Key Tips for Success**
+
+1. **Consistency > Volume** – 5–6 hours/day without fail beats occasional marathon sessions.
+2. **Keep Track of Problems Solved** – Maintain a spreadsheet with problem type, difficulty, and solution link.
+3. **GitHub Portfolio** – Add all projects with proper README and code comments.
+4. **Interview Practice** – After Month 3, start mock interviews even if not perfect.
+5. **CGPA Doesn’t Matter** – Focus on **skills, projects, problem-solving**, and **coding rounds**.
+
+---
+
+If you want, I can **also suggest the exact number of problems/day from platforms like LeetCode, GFG, HackerRank** for **optimal preparation within 6 months**—so you’ll have a concrete daily target.
+
+Do you want me to make that?
