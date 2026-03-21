@@ -1,5 +1,5 @@
 import java.util.*;
-class listcreation_01{
+class listcreation{
 class node{
 int val;
 node next;
