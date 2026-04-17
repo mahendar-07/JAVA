@@ -1,0 +1,56 @@
+1. 🔤 String Manipulation (VERY HIGH FREQUENCY)
+Common problems:
+Remove vowels
+Remove spaces
+Reverse string
+Palindrome check
+Count characters / frequency
+Remove special characters
+
+2. 🔢 Arrays (TOP PRIORITY IN NQT)
+Common problems:
+Find largest/smallest element
+Second largest
+Reverse array
+Remove duplicates
+Move zeros to end
+Rotate array
+Pattern:
+for loop + comparison logic + temp variables
+
+
+3. 🔁 Number Logic Problems
+Common problems:
+Prime number
+Fibonacci series
+Factorial
+Armstrong number
+Palindrome number
+Pattern:
+while/for loop + math operations (% and /)
+
+
+4. 🔍 Searching & Counting
+Common problems:
+Linear search
+Frequency of elements
+Count vowels/consonants/digits
+Pattern:
+HashMap OR simple loops
+
+5. 🧠 Pattern-based logic questions
+Common problems:
+Star patterns
+Number pyramids
+Half/full triangle patterns
+Pattern:
+nested loops (i, j)
+
+6. ⚡ Basic Math Problems
+Common problems:
+GCD / LCM
+Sum of digits
+Reverse number
+Power calculation
+Pattern:
+loop + arithmetic operations

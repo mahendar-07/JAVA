@@ -71,6 +71,35 @@ temp=temp.getnext();
 }
 return null;
 }
+/*
+insert(data,dataBefore)
+1.Create a new node with the given data
+3.Find the node with dataBefore. If found then,
+    a.Call this as the nodeBefore
+    b.Make the link of the new node refer to the link of nodeBefore
+    c.Make the link of nodeBefore refer to the new node
+    d.If link of the new node is null, make it as the tail node
+4. If node with dataBefore is not found, display appropriate error message
+*/
+public void insert(String data,String dataBefore){
+Node node=new Node(data);
+if(this.head==null){
+this.head=this.tail=node;
+}
+else{
+Node nodeBefore=this.find(dataBefore);
+if(nodeBefore!=null){
+node.setNext(nodeBefore.getNext());
+nodeBefore.setNext(node);
+if(nodeBefore==this.tail){
+this.tail=node;
+}
+else{
+System.out.println("Node not found");
+}
+}
+}
+}
 }
 class Linkedlist{
 public static void main(String args[]){
